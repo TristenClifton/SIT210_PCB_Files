@@ -1,0 +1,37 @@
+{
+  "uuid": "b2ec08110d1dcc6dcefb5e2e3edad912",
+  "path": "Offline/SmartGarden",
+  "name": "SmartGarden",
+  "content": "",
+  "created_at": "2022-05-22 10:11:54",
+  "updated_at": "2022-05-22 11:11:21",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "ca98ab7df5ffffdf93e4d91eaa13e6f6",
+      "puuid": "b2ec08110d1dcc6dcefb5e2e3edad912",
+      "title": "Smart Garden pcb",
+      "filename": "Smart Garden pcb.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "898a1c30216d4489af32b22ded978b58": 1,
+        "8c49c96bef4b451ca02e68dc3e44a9ef": 1,
+        "9c46acee03104d5cb77304d126cd2493": 1
+      },
+      "BOM": [],
+      "updateTime": 1653181881,
+      "createTime": 1653180861,
+      "histories": [],
+      "created_at": "2022-05-22 10:54:21",
+      "updated_at": "2022-05-22 11:11:21"
+    }
+  ],
+  "sort": [],
+  "title": "SmartGarden",
+  "foldername": "SmartGarden",
+  "schfilename": "SmartGarden.json",
+  "schfilemtime": 1653178315245
+}
